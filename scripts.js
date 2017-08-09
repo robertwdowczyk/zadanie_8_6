@@ -5,7 +5,6 @@ var exValue = (a * a) + (2 * a * b) - (b * b);
 console.log('ex field with base a: ' + a + ' and b: ' + b + ' is equal to: ' + exValue);
 var wynik = prompt(exValue);
 alert('Wynik to: ' + exValue);
-var wynik = 1;
 if ( wynik >= 1 ) {
     console.log('Wynik dodatni');
 } else if ( wynik < 0 ) {
